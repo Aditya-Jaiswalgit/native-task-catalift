@@ -18,16 +18,20 @@ Email: jaisaaditya11@gmail.com
 - Sync Gradle
 - Run on emulator or physical device
 
+- or download the apk file directly from github repository and run app-debug.apk in your Android Phone.
+
 Screenshots of App
 
 
 
-
+Splash Screen
 ![Splash Screen of App](https://github.com/user-attachments/assets/c7d2851e-2b18-437e-9e71-cae36dc2786f)
 
 
+Home Screen
 ![Home Page](https://github.com/user-attachments/assets/61f77bb7-24ab-4c3a-a29b-003b1cf1eb38)
 
 
+Search Functionality
 ![Search Functionality](https://github.com/user-attachments/assets/546c6be6-b7d9-476c-8c08-b1113b04425c)
 
